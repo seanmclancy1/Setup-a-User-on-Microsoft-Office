@@ -1,4 +1,4 @@
-# Setup-a-User-on-Microsoft-Office
+# Setup a User on Microsoft Office
 
 Quick User Setup Walkthrough | Office
 <h2>Description</h2>
