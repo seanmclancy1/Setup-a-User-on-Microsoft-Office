@@ -29,12 +29,12 @@ Once a computer has been joined to your company domain and assigned to a user, y
 <br/>
 • You can assign the user a password that you know will be complicated or have them create their own by creating a password you give to them and upon first login, they will be required to change their password.
 <br/>
-<img src="https://i.imgur.com/sSOx50U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
+<img src="https://i.imgur.com/nYpOQZd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
 <br/>
 <br/>
 <br/>
 •	You will then assign a product license to that user. (If your company has ran out you will be prompted to pay and it will assign that specific license. ) <br/>
-<img src="https://i.imgur.com/ea60v4H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
+<img src="https://i.imgur.com/y9Qi0nP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
 <br/>
 <br/>
 <br/>
