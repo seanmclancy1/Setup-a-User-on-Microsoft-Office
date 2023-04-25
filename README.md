@@ -20,7 +20,7 @@ Once a computer has been joined to your company domain and assigned to a user, y
 <br/>
 <br/>
 •Click on admin. Go to Users, Active Users, Add user <br/>
-<img src="https://i.imgur.com/Nvnh8EM.png" width="80%" alt="Disk Sanitization Steps"/
+<img src="https://i.imgur.com/2T1ntgw.png" width="80%" alt="Disk Sanitization Steps"/
 <br/>
 <br/>
 <br/>
